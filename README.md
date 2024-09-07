@@ -1,4 +1,4 @@
-##  Pesquisador de Vinhos 
+##  Pesquisador de Vinhos - imersão Dev com Google Gemini
 
 **Um gole de código para encontrar o vinho perfeito!**
 
