@@ -9,7 +9,7 @@ let dados = [
     {
       titulo: "Bordeaux França",
       descricao: "Os vinhos de Bordeaux são reconhecidos mundialmente por sua elegância e complexidade. Produzidos na região francesa de Bordeaux, esses vinhos tintos são elaborados a partir de um blend de uvas como Cabernet Sauvignon, Merlot, Cabernet Franc e Petit Verdot. A região de Bordeaux é dividida em diversas denominações de origem controladas (AOCs), cada uma com suas características únicas.",
-      link: "https://www.seusitedevinhos.com/bordeaux",
+      link: "https://www.divvino.com.br/blog/vinho-bordeaux",
       harmonizacao: "frança carnes queijos"
     },
     {
